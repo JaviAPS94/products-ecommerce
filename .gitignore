@@ -1,0 +1,16 @@
+node_modules/
+env-local.yml
+package-lock.json
+.vscode
+debug.env
+apidoc/
+.env
+snowflake.log
+
+.idea/
+
+coverage/
+.nyc_output/
+xunit.xml
+eslint-report.json
+.DS_Store
